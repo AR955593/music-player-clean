@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TuneSync 🎵
 
 TuneSync is a modern Flutter music player app that provides a seamless audio experience with beautiful UI animations and effects.
@@ -140,3 +141,6 @@ Made with ❤️ by AR RAJPUT (ANKIT RAJPUT) 🚀
 
 
 >>>>>>> 23c7350ee191a4a501f79cd1e18b78a977ecfd14
+=======
+# music-player-clean
+>>>>>>> 970266b056314db46bd5aa3bf4a7bc81c92e4437
